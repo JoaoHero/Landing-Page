@@ -1,2 +1,2 @@
 # Landing-Page
-Primeira Lading page
+Primeira Lading page, estou estudando modelos de lading page e pretendo trazer mais
